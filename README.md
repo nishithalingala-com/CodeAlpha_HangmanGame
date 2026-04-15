@@ -16,4 +16,21 @@ This is a simple text-based Hangman game developed using Python.
 - Conditional statements (if-else)
 - Lists and strings
 - Random module
+  
+## Features
+- Random word selection
+- Limited attempts
+- Tracks guessed letters
+- Displays progress
+- Win/Lose condition
+
+## How to Run
+1. Install Python
+2. Run: python hangman_game.py
+
+## Sample Output
+Word: _ y t h o n
+Attempts left: 3
+Correct!
+You WON!
 ## This project was developed as a part of my Python internship.
